@@ -79,12 +79,6 @@ Output will look like this:
 ...
 ```
 
-## Contact
-
-pavel.ditenbir@gmail.com
-
-Telegram: t.me/dipaolo
-
 ## License
 **MIT License**
 
@@ -94,5 +88,5 @@ Please refer to [License](https://github.com/DiPaolo/deepeasy-terminal-stats/blo
 
 ## Contact
 Please feel free to contact me:
-- [pavel.ditenbir@gmail.com](mailto:pavel.ditenbir@gmail.com).
+- [pavel.ditenbir@gmail.com](mailto:pavel.ditenbir@gmail.com)
 - Telegram: https://t.me/dipaolo
